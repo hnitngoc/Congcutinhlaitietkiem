@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Cấu hình trang
-st.set_page_config(page_title="Tính Lãi Tiết Kiệm", page_icon="💰", layout="centered")
+st.set_page_config(page_title="Tính Lãi Tiết Kiệm_Tĩnh Ngọc", page_icon="💰", layout="centered")
 
 def main():
     st.title("💰 Ứng dụng Tính Lãi Tiết Kiệm")
