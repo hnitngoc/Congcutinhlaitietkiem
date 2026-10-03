@@ -1,10 +1,10 @@
 import streamlit as st
-st.image("logo1.jpg")
+
 # Cấu hình trang
 st.set_page_config(page_title="Tính Lãi Tiết Kiệm", page_icon="💰", layout="centered")
 
 def main():
-    st.title("💰 Ứng dụng Tính Lãi Tiết Kiệm_ Trần Huỳnh Tĩnh Ngọc")
+    st.title("💰 Ứng dụng Tính Lãi Tiết Kiệm")
     st.markdown("Nhập các thông tin bên dưới để tính toán số tiền lãi nhận được từ khoản tiền gửi của bạn.")
 
     # Tạo form nhập liệu
