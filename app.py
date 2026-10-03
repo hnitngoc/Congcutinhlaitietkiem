@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Tính Lãi Tiết Kiệm_Tĩnh Ngọc", page_icon="💰", layout="centered")
 
 def main():
-    st.title("💰 Ứng dụng Tính Lãi Tiết Kiệm")
+    st.title("💰 Ứng dụng Tính Lãi Tiết Kiệm_Tĩnh Ngọc")
     st.markdown("Nhập các thông tin bên dưới để tính toán số tiền lãi nhận được từ khoản tiền gửi của bạn.")
 
     # Tạo form nhập liệu
