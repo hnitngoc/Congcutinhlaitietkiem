@@ -1,6 +1,6 @@
 
 Gemini
-Cuộc trò chuyện mới
+Cuộc trò chuyện
 Tìm kiếm trong các cuộc trò chuyện
 Sinh viên
 Thư viện
